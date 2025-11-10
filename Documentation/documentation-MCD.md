@@ -62,6 +62,12 @@ Attention: au fil des recherches, le vocabulaire sera peut-être modifié au fil
 - le nom (ex. noblesse, aristocratie, bourgeoisie, etc.)
 - la définition (brève explication)
 
+## Relationship
+C'est une classe (sémantique) qui relie ici une personne à une autre personne. La nature de la relation peut varier.
+### Propriétés
+- le nom (ex. amitié, mécène, commanditaire, père, mère, maître, etc.)
+- la définition (pour toute autre informations)
+
 ## Relations
 Les relations qu'entretient la class "Person" avec d'autres classes sont les suivantes:
 - relation person-lieu : ceci pouvant être un lieu de naissance, de résidence, de décès, ou simplement un lieu important dans la vie de l'individu pour une autre raison.

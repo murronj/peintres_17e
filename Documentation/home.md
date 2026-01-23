@@ -1,8 +1,6 @@
 # Les peintres italiens
 Ce projet à pour objectif d'étudier les différentes relations entre les peintres italiens tels que nommés dans la liste wikipédia, donc à partir d'un corpus pré-défini. Il s'agira ici d'explorer les éventuels liens qui interagissent au niveau géographique, philosophique, culturel, et social. Les hypothèses formulées tenterons de prouver certains liens dynamiques et d'en découvrir d'autres jusque là inconnu.
 
-* [Retour au dépôt README](README.md)
-
 ## Phase exploratoire
 * [Problématique et questionnement](problematique_questionnement.md) 
 * [Listes de peintres](list_italian_painters.md)

@@ -1,19 +1,21 @@
 # Problématique
 ## Introduction
-Au sein de ce projet, nous partirons d'une liste prédéterminée de peintres du XVIIe siècle afin de formuler plusieurs hypothèses à partir de données biographiques récoltées. Nous nous intéresserons à leur origine géographique, leur affiliations religieuses, leur parcours professionnel. Nous mettrons en lien ces informations avec d'autres apsects de leur vie comme leur appartenance à des courants stylistiques, des groupes idéologiques, ou encore leur statut socio-économique.
+Au sein de ce projet, nous partirons d'une liste prédéterminée de peintres italiens afin de formuler plusieurs hypothèses à partir de données biographiques récoltées. Nous nous intéresserons à leur affiliation religieuse, leur parcours professionnel et leur appartenance à des institutions. Nous mettrons en lien ces informations avec d'autres apsects de leur vie comme leur affiliation à des courants stylistiques, des groupes idéologiques, ou encore leur statut socio-économique. Cette étude propose de prendre en compte des peintres de toutes périodes afin d'éventuellement distinguer des tendances, notamment historiques.
+
 ## Questions de recherche
-- Y a-t-il une corrélation entre les origines géographiques et des affiliation à des groupes spécifiques ?
-- Y a-t-il une corrélation entre leur affiliation religieuse et leur statut socio-économique ?
+- Y a-t-il une corrélation entre les courants artistiques et la période d'activité de l'individu ?
+- Y a-t-il une corrélation entre le statut socio-économique et l'appartenance à une institution ?
+- Y a-t-il une corrélation entre l'appartenance à une institution et l'affiliation à des groupes spécifiques ?
 - Quel sont les impacts de l'éducation reçue, ou pas reçu sur leur parcours professionnel ?
-- Les peintres étudiés exercent-ils d'autres métiers ? Si oui, lesquels ? Et sont-ils aussi des métiers dits "de lettres" ?
-- Quels sont leur affiliation politique et peut-on y voir une corrélation avec leur métier libral ?
-- Quelle est la place des femmes peintres par rapport à celle des hommes ?
+- Les peintres étudiés exercent-ils d'autres métiers ?
+- Quelle est la place des femmes peintres par rapport à celle des hommes ? Et y a-t-il une corrélation selon la période historique ?
+
 ## Aspects de l'information à collecter
 - Origines géographiques
 - Education/Formation
 - Affiliation religieuse
+- Appartenance à des institutions 
 - Statut socio-économique familial
-- Appartenance à des groupes artistiques, littéraire ou politique
-- Autres activités professionnelle
-- Réseau entretenus avec d'autres personnalités contemporaines (pas forcément peintres)
+- Affiliation à des courants artistiques, littéraire ou politique
+- Autres activités professionnelles
 - Genre

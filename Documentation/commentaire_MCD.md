@@ -1,16 +1,18 @@
 # Documentation pour le Modèle Conceptuel
 ## Person
-La classe "Person" s'intéresse aux individus qui seront étudiés, c'est-à-dire les peintres du VIIe siècle, mais elle inclut notamment tout autre personne pertinente à nos recherches. 
+La classe (persistent item) "Person" s'intéresse aux individus qui seront étudiés, c'est-à-dire les peintres italiens, mais elle inclut notamment tout autre personne pertinente à nos recherches. 
+
 ### Propriétés
 Pour la classe "Person", les propriétés suivantes seront inclues:
 - leur nom
 - leur date de naissance
 - leur date de décès
 - leur genre 
-L'inclusion de la propriété "genre" est nécessaire car l'une des questions de recherche s'intéresse à la prévalence des femmes peintre au XVIIe siècle et si elles partagent des caractéristiques ou des relations particulières.
+L'inclusion de la propriété "genre" est nécessaire car l'une des questions de recherche s'intéresse à la prévalence des femmes peintre et si elles partagent des caractéristiques ou des relations particulières.
 
 ## Training
 La classe "Training" désigne la formation qu'a effectué l'individu. On la prend en compte car nous souhaitons tout d'abord savoir si tous les peintres traités dans ce projet possèdent une formation artistique, et s'ils ont potentiellement effectués d'autres formations.
+
 ### Propriétés
 - le nom de la formation (ex. peintre, verrier, marchand, etc.)
 - la définition (ex. formation artisitque = quel atelier)
